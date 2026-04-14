@@ -1,6 +1,6 @@
 ---
 name: User Story
-description: Template for creating user stories
+about: Template for creating user stories for the final project
 title: ""
 labels: ["enhancement"]
 assignees: ""
